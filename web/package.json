@@ -1,0 +1,27 @@
+{
+  "name": "fitness-coach-ai-web",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
+    "axios": "^1.5.0",
+    "recharts": "^2.8.0",
+    "react-calendar": "^4.6.0",
+    "react-confetti": "^6.1.0",
+    "react-hot-toast": "^2.4.1",
+    "framer-motion": "^10.16.1",
+    "lucide-react": "^0.279.0",
+    "@stripe/stripe-js": "^2.1.6",
+    "@stripe/react-stripe-js": "^2.3.0",
+    "date-fns": "^2.30.0",
+    "html5-qrcode": "^2.3.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
